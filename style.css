@@ -1,0 +1,44 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #21006f;
+    background-image: url("./Без\ названия.jfif");
+   
+}
+h1{
+    text-align: center;
+    color: #ffffff;
+    font-size: 3em;
+}
+form{
+    margin-left: 35vw;
+    margin-top: 10vh;
+    width: 500px;
+    height: 600px;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 5px 5px 15px 2px rgba( 148, 148, 148, .1);
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(215,251,24,1) 0%, rgba(0,212,255,1) 100%);
+}
+tabel {
+    padding: 5% 10px;
+}
+#display{
+    margin: 15px 10px;
+    padding: 10px 4px;
+    font-size: 56px;
+    width: 400px;
+    border-radius: 10px;
+  
+}
+button{
+ margin: 30px;
+}
+.btn{
+    width: 100px;
+    height: 100px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(215,251,24,1) 0%, rgba(0,212,255,1) 100%);
+    border-radius: 25%;
+}
